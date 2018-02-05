@@ -14,5 +14,24 @@
     font-weight: bold;
     font-size: 16px;
   }
+
+  .sidebar {
+    color: $gray;
+    .card {
+      margin-bottom: 15px;
+    }
+  }
+
+  // .home-body {
+  //   display: flex;
+  // }
+
+  // // banner
+  // // sidebar
+  // //popular
+
+  // .sidebar {
+  //   flex: 0 0 150px;
+  // }
 }
 
